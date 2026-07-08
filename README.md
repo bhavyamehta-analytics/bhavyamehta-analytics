@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bhavya Mehta
 
-🎯 Data Analyst | SQL | Python | Power BI  
+🎯 Data/Business Analyst | SQL | Python | Power BI  
 📍 India  
 
 ---
